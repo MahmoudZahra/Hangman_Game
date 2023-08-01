@@ -21,7 +21,7 @@ letterArray.forEach(letter => {
 // Object of words and Categories
 
 const words = {
-  Programming: ["JavaScript", "PHP", "C#", "SQL", "Python"],
+  Programming: ["JavaScript", "PHP", "Java", "SQL", "Python"],
   anime: ["Naroto", "One piece", "Death Note", "Attach on Titans"],
   countries: ["United States", "Canada", "Egypt", "hinid"],
   company: ["facebook", "twitter", "instagram", "Whatsapp",]
